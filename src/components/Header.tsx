@@ -19,9 +19,11 @@ export function Header() {
         <div className="flex justify-between items-center py-4">
           {/* Logo */}
           <div className="flex items-center">
-            <span className="text-white text-2xl tracking-tight font-black">
-              BRAND<span className="text-red-600">ORE</span>
-            </span>
+            <img
+              src="/Logo Red .svg"
+              alt="BRANDORE"
+              className="h-10"
+            />
           </div>
 
           {/* Desktop Navigation */}

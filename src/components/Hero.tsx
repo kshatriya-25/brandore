@@ -131,7 +131,7 @@ export function Hero() {
           }}
           className="text-4xl sm:text-5xl md:text-7xl text-white mb-6 max-w-5xl mx-auto leading-tight font-black"
         >
-          Hire One Agency. Get an Entire Creative Team —{" "}
+          Hire One Agency. Get an Entire Creative Team {" "}
           <motion.span
             className="text-transparent bg-clip-text bg-gradient-to-r from-red-500 to-red-700 font-black inline-block"
             animate={{

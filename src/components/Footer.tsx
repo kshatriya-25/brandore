@@ -112,8 +112,8 @@ export function Footer() {
           <div>
             <h4 className="text-white mb-4 font-black">Contact</h4>
             <ul className="space-y-3 text-gray-400 font-medium">
-              <li>hello@brandore.com</li>
-              <li>+1 (555) 123-4567</li>
+              <li>michael@brandore.in</li>
+              <li>+91 9025556833</li>
               <li>Worldwide, Remote First</li>
             </ul>
           </div>
